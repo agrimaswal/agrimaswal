@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrimaswal&label=Profile%20views&color=0e75b6&style=flat" alt="agrimaswal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/AA200270" target="blank"><img src="https://img.shields.io/twitter/follow/thorfinn?logo=twitter&style=for-the-badge" alt="thorfinn" /></a> </p>
-
+<p align="left"> <a href="https://twitter.com/AA200270"
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **agrimaswal70@gmail.com**
