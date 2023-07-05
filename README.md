@@ -8,12 +8,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrimaswal&label=Profile%20views&color=0e75b6&style=flat" alt="agrimaswal" /> </p>
 
+<p align="left"> <a href="https://twitter.com/thorfinn" target="blank"><img src="https://img.shields.io/twitter/follow/thorfinn?logo=twitter&style=for-the-badge" alt="thorfinn" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **agrimaswal70@gmail.com**
 
 
+![Agrim Aswal's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrimaswal&show_icons=true&theme=synthwave)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,6 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrimaswal&show_icons=true&locale=en&layout=compact" alt="agrimaswal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agrimaswal&show_icons=true&locale=en" alt="agrimaswal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrimaswal&" alt="agrimaswal" /></p>
