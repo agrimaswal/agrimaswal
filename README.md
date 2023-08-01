@@ -9,8 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrimaswal&label=Profile%20views&color=0e75b6&style=flat" alt="agrimaswal" /> </p>
 
 
-- 🌱 I’m currently learning **Artificial Intelligence**
-- ⚡ Fun fact: What I expect, it is the opposite.
+- 🌱 I’m currently learning **Artificial Intelligence**😉
+- ⚡ Fun fact: What I expect, it is the opposite 🤣
 
 - 📫 How to reach me **agrimaswal70@gmail.com**
  
