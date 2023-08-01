@@ -46,17 +46,7 @@ You can use any tools for free and for any development or making projects just c
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrimaswal&icons=true&theme=codeSTACKr" alt="agrimaswal" /></p>
 
 
----
 
-### 🐍 Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://agrimaswal.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://agrimaswal.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://agrimaswal.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 Thanks! :heart:
 <div id="header" align="center">
