@@ -10,8 +10,14 @@
 
 
 - 🌱 I’m currently learning **Artificial Intelligence**
+- ⚡ Fun fact: What I expect, it is the opposite.
 
 - 📫 How to reach me **agrimaswal70@gmail.com**
+ 
+- ## :sparkling_heart: Support the project
+
+I try to reply to everyone needing help using these projects or any other projects. Obviously. 
+You can use any tools for free and for any development or making projects just contact me.
 
 
 ![Agrim Aswal's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrimaswal&show_icons=true&theme=chartreuse-dark)
@@ -24,3 +30,14 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrimaswal&icons=true&theme=codeSTACKr" alt="agrimaswal" /></p>
+
+Thanks! :heart:
+
+</details>
+
+
+[twitter]: https://twitter.com/AA200270
+[gmail]: https://agrimaswal70@gmail.com
+[youtube]: https://www.youtube.com/channel/UCuN1pgl6bk6X_CWYIDMbHvQ
+[linkedin]: https://www.linkedin.com/in/agrim-aswal-981a30279/
+
