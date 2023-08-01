@@ -8,11 +8,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrimaswal&label=Profile%20views&color=0e75b6&style=flat" alt="agrimaswal" /> </p>
 
-
+- 👨‍💻 I'm a B-Tech CSE Final year student at DIT UNIVERSITY
 - 🌱 I’m currently learning **Artificial Intelligence 😉**
 - ⚡ Fun fact: What I expect, it is the opposite 🤣
 
-- 📫 How to reach me **agrimaswal70@gmail.com**
+- 📫 How to reach me 
+### 🔗 Social info
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/agrim-aswal-981a30279/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=agrimaswal70@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+   
+</div>
+
+---
  
 - ## :sparkling_heart: Support the project
 
@@ -31,13 +44,20 @@ You can use any tools for free and for any development or making projects just c
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrimaswal&icons=true&theme=codeSTACKr" alt="agrimaswal" /></p>
 
+---
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 Thanks! :heart:
-
-</details>
-
-
-[twitter]: https://twitter.com/AA200270
-[gmail]: https://agrimaswal70@gmail.com
-[youtube]: https://www.youtube.com/channel/UCuN1pgl6bk6X_CWYIDMbHvQ
-[linkedin]: https://www.linkedin.com/in/agrim-aswal-981a30279/
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
+</div>
 
