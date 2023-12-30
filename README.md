@@ -34,7 +34,6 @@ You can use any tools for free and for any development or making projects just c
 
 
 
-![Agrim Aswal's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrimaswal&show_icons=true&theme=chartreuse-dark)
 
 
 <h3 align="left">Languages and Tools:</h3>
