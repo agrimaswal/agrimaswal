@@ -38,7 +38,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrimaswal&show_icons=true&locale=en&layout=compact&icons=true&theme=jolly" alt="agrimaswal" /></p>
 
 
 
