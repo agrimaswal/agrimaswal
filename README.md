@@ -1,4 +1,4 @@
-
+![MasterHead](https://media1.tenor.com/m/WOoVLVRav3AAAAAC/mario-bros-bedroom.gif)
 <div id="badges">
     <a href="https://www.linkedin.com/in/agrim-aswal-981a30279/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
