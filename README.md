@@ -1,4 +1,4 @@
-![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGV6N2tzMm5jZ2xsbmpqazJ3Y2wyYXJrMmt5dnAyMnltbHBwZ2tjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.webp)
+![MasterHead](https://media1.tenor.com/m/TP58Jc-uI-AAAAAC/sqds.gif)
 <div id="badges">
     <a href="https://www.linkedin.com/in/agrim-aswal-981a30279/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
